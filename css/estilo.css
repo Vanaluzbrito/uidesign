@@ -1,0 +1,25 @@
+body{
+    background-color: #5F7161;
+}
+
+article{
+    background-color:  #475448;
+    padding: 133px 96px ;
+    margin: 118px auto;
+    width: 780px ;
+    border-radius: 8px; 
+ }
+   
+ h2{
+    color:  #FFFFFF;
+    font-size: 48px;
+    font-family:'Playfair Display', serif;
+    margin-bottom: 64px;
+    
+ }
+ p{
+    color:  #F8F8F8;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 140%;
+    }
